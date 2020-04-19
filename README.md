@@ -1,78 +1,29 @@
-# Product Name
-> Short blurb about what your product does.
+# 프로젝트 이름
+> 프로젝트 간략 소개 문구
+- 웹사이트 url
+  - (챗봇일 경우)텔레그램 등 메신저 주소
+- 사이트에 대한 1-2단락 설명
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
-
+## 사용 How To Use
+- 사용하고 싶도록 유용한 몇 가지 예를 적습니다. 코드 블록과 스크린샷 포함.
+- (wiki가 있을 경우) _더 많은 예시와 사용 예제는 [Wiki][wiki]를 참고하세요._
 ![](header.png)
 
-## Installation
+## 핵심 기능  Key Feature
+- 실시간 지역별 날씨에 맞는 옷차림 정보를 알려줍니다.
+- 미세먼지 정보를 파악할 수 있습니다.
 
-OS X & Linux:
+## License
+이름 – [이메일 주소](mailto:이메일주소@example.com)
 
-```sh
-npm install my-crazy-module --save
-```
+XYZ license를 준수합니다. ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
-Windows:
+[https://github.com/yourname/github-link](https://github.com/ohahohah/)
 
-```sh
-edit autoexec.bat
-```
+## Credit
+- 기여자, 공동작업자가 있을 경우 적습니다.
+- Thanks to @기여자이름
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+## Refrence
+- 참고자료
+- 출처를 표기해야하는 자료 정보를 표기합니다.
