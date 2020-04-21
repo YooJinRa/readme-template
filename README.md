@@ -1,5 +1,9 @@
 # 프로젝트 이름
-> 프로젝트 간략 소개 문구
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
+> 프로젝트 간략 소개 한 문장 
 - 웹사이트 url / (챗봇일 경우)텔레그램 등 메신저 주소
 - 사이트에 대한 1-2단락 설명
 
