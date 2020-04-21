@@ -32,9 +32,9 @@
   - 프로젝트 이름: https://github.com/someones/awesome-project/
 
 ## License
-*(공동작업자가 있을 경우 모두 적어줍니다)*
-이름1 – [이메일 주소1](mailto:이메일주소@example.com)
-이름2 - [이메일 주소2](mailto:이메일주소@example.com)
+*(공동작업자가 있을 경우 모두 적어줍니다)*  
+이름1 – [이메일 주소1](mailto:이메일주소@example.com)  
+이름2 - [이메일 주소2](mailto:이메일주소@example.com)  
 
-XYZ license를 준수합니다. ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
+XYZ license를 준수합니다. ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.  
 [https://github.com/yourname/github-link/LICENSE.md](https://github.com/ohahohah/)
