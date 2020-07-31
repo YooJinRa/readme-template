@@ -12,8 +12,8 @@
 - 사이트에 대한 1-2단락 설명
 
 ## 핵심 기능  Key Feature
-- 실시간 지역별 날씨에 맞는 옷차림 정보를 알려줍니다.
-- 미세먼지 정보를 파악할 수 있습니다.
+- (예시) 실시간 지역별 날씨에 맞는 옷차림 정보를 알려줍니다.
+- (예시) 미세먼지 정보를 파악할 수 있습니다.
 
 ## 사용 How To Use
 - 사용하고 싶도록 유용한 몇 가지 예를 적습니다. 코드 블록과 스크린샷 포함.
@@ -26,8 +26,8 @@
 
 ## Reference
 *(참고 리소스,  code snippet, 라이센스 정보를 표기합니다)*
-- [네이버 지도 API](링크url) : 장소카드 지도화면에 사용
-- [Teachable Machine](https://teachablemachine.withgoogle.com/) : 절하는 pose MachineLearning Model 
+- (예시) [네이버 지도 API](링크url) : 장소카드 지도화면에 사용
+- (예시) [Teachable Machine](https://teachablemachine.withgoogle.com/) : 절하는 pose MachineLearning Model 
 
 ## Links
 *(사람이 읽기 쉽게 요약된 링크 정보를 추가합니다)*
